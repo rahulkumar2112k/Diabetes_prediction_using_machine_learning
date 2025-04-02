@@ -54,4 +54,4 @@ This project implements a **Diabetes Prediction Model** using **Support Vector M
 - **Deep Learning Approach**: Use Neural Networks for enhanced accuracy.
 
 ## Dataset
-The dataset used for this project can be found [here](https://colab.research.google.com/drive/1azJjE2Zzi10Wuu8mavmxh9LFQiAuxjH2?usp=sharing).
+The dataset used for this project can be found [here](https://drive.google.com/file/d/1V0I2vVByB-dq0Orc_WwQBWbRYxWGmJsQ/view?usp=sharing).
